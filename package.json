@@ -1,0 +1,27 @@
+{
+    "author": "occidio001@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "fill-me-up",
+    "pebble": {
+        "displayName": "Fill Me Up",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "rocky",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "basalt",
+            "chalk",
+            "diorite",
+            "emery"
+        ],
+        "uuid": "4e8444b6-421d-4149-b47b-d81e822ffa99",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
